@@ -1,0 +1,89 @@
+/*GENERAL STYLES*/
+
+html {
+	height: 100%;
+}
+
+body {
+    line-height: 1.875;
+    display: table;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-left: 20%;
+    table-layout: fixed;
+}
+
+/*SIDEBAR*/
+
+header {
+	position: fixed;
+	z-index: 1;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	width: 20%;
+    height: 100%;
+    background-color: #000;
+    color: #ddd;
+}
+
+.header-wrapper {
+	position: relative;
+	display: table;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	padding: 0 20px;
+	text-align: left
+}
+
+.middle {
+	display: table-cell;
+	width: 100%;
+	height: 95%;
+	padding: 40px 0;
+	vertical-align: middle
+}
+
+#title {
+	font-size: 32pt;
+}
+
+#title a {
+	color: pink;
+}
+
+.bottom {
+	display: table-row;
+	height: 5%;
+    width: 100%;
+	vertical-align: bottom;
+	padding-bottom: 10px;
+}
+
+/*CONTENT*/
+
+main {
+    position: relative;
+    display: table-row;
+    height: 100%;
+}
+
+.row {
+	height: 33.333333%;
+	margin: 0 !important;
+}
+
+.col-sm {
+	padding: 0 !important;
+}
+
+.grid {
+	height: 100%;
+	margin: 0 !important;
+	padding: 0 !important;
+	max-width: 100% !important;
+}
