@@ -1,101 +1,15 @@
-.header-wrapper {
-	position: relative;
-	display: table;
-	box-sizing: border-box;
-	width: 100%;
+html {
 	height: 100%;
-	padding: 0 20px
 }
 
-@media screen and (max-width: 960px) {
-	body {
-		padding: 0
-	}
-	header {
-		position: relative;
-		width: 100%;
-		height: auto
-	}
-	menu {
-		padding-bottom: 30px
-	}
+main {
+    position: relative;
+    display: table-row;
+    height: 100%;
 }
-
-.section {
-	position: relative;
-	z-index: 1
-}
-
-.middle {
-	display: table-cell;
-	width: 100%;
-	height: 100%;
-	padding: 40px 0;
-	text-align: center;
-	vertical-align: middle
-}
-
-#title a {
-    color: #ffffff;
-    font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif; 
-    font-size: 22px;
-    font-weight: 700;
-}
-
-#title {
-	margin-bottom: .5em
-}
-
-#title a {
-	line-height: 1.2;
-	text-decoration: none
-}
-
-#description {
-	max-width: 500px;
-	margin: auto;
-	margin-top: 20px
-}
-
-#title~#description {
-	margin-top: 0
-}
-
-.social {
-	max-width: 500px;
-	margin: 26px auto 0;
-	text-align: center
-}
-
-.social a {
-	font-size: 14px;
-	line-height: 30px;
-	display: inline-block;
-	width: 30px;
-	height: 30px;
-	margin: 0 3px 6px;
-	padding: 0;
-	text-decoration: none;
-	color: inherit;
-	border: 1px solid;
-	border-radius: 50%;
-	background: transparent
-}
-
-.social a:hover {
-	color: #fff
-}
-
-.bottom {
-	display: table-row;
-    width: 100%;
-    vertical-align: bottom;
-}
-
 
 
 header {
-	line-height: 1.625em;
 	position: fixed;
 	z-index: 1;
 	top: 0px;
@@ -103,31 +17,60 @@ header {
 	left: 0px;
 	overflow-x: hidden;
 	overflow-y: auto;
-	width: 30%;
+	width: 20%;
     height: 100%;
     background-color: #000;
     color: #ddd;
 }
-header a {
-    color: #fff;
-}
-header a:hover {
-	text-decoration: none;
-	color: inherit
-}
-header nav {
-	margin-top: 20px
+
+body {
+    line-height: 1.875;
+    display: table;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-left: 20%;
+    table-layout: fixed;
 }
 
-header nav a {
-	font-size: .75em;
-	display: inline-block;
-	margin: 0px 5px;
-	text-transform: uppercase
-}
-
-main {
+.header-wrapper {
 	position: relative;
+	display: table;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	padding: 0 20px;
+	text-align: left
+}
+
+.middle {
+	display: table-cell;
+	width: 100%;
+	height: 95%;
+	padding: 40px 0;
+	vertical-align: middle
+}
+
+.bottom {
 	display: table-row;
-	height: 100%
+	height: 5%;
+    width: 100%;
+	vertical-align: bottom;
+	padding-bottom: 10px;
+}
+
+.row {
+	height: 33.333333%;
+	margin: 0 !important;
+}
+
+.col-sm {
+	padding: 0 !important;
+}
+
+.grid {
+	height: 100%;
+	margin: 0 !important;
+	padding: 0 !important;
+	max-width: 100% !important;
 }
