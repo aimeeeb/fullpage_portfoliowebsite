@@ -8,6 +8,13 @@ main {
     height: 100%;
 }
 
+#title {
+	font-size: 32pt;
+}
+
+#title a {
+	color: pink;
+}
 
 header {
 	position: fixed;
