@@ -1,0 +1,49 @@
+---
+title: Work
+layout: default
+---
+
+ <div class="container grid">
+    <div class="row">
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: red"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: green"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: blue"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: yellow"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: blue"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: purple"></div>                    
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: red"></div>                    
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: orange"></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: green"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: blue"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: brown"></div>
+        </div>
+        <div class="col-sm">
+            <div style="height: 100%; width: 100%; background-color: black"></div>
+        </div>
+    </div>
+</div>
