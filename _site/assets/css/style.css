@@ -27,7 +27,7 @@ header {
 	width: 20%;
     height: 100%;
     background-color: #000;
-    color: #ddd;
+	color: #ddd;
 }
 
 .header-wrapper {
@@ -42,6 +42,7 @@ header {
 
 .middle {
 	display: table-cell;
+	text-transform: lowercase;
 	width: 100%;
 	height: 95%;
 	padding: 40px 0;
@@ -62,6 +63,10 @@ header {
     width: 100%;
 	vertical-align: bottom;
 	padding-bottom: 10px;
+}
+
+#my-footer {
+	font-size: .75rem;
 }
 
 /*CONTENT*/
@@ -86,4 +91,14 @@ main {
 	margin: 0 !important;
 	padding: 0 !important;
 	max-width: 100% !important;
+}
+
+.post-image {
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+}
+
+.post-content {
+	padding: 20px;
 }
