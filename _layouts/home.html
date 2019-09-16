@@ -6,8 +6,8 @@ layout: default
         {% for post in site.posts %}
         {% if post.path contains "/row1" %}
             <div class=col-sm>
-                <a href="{{ post.url }}">
-                <img class="grid-image" src="{{ post.image }}">
+                <a href="{{ post.url }}"><div class="grid-div" style="background-image:url('{{ post.image }}')">
+                </div></a>
             </div>
         {% endif %}
         {% endfor %}
@@ -16,8 +16,8 @@ layout: default
         {% for post in site.posts %}
         {% if post.path contains "/row2" %}
             <div class=col-sm>
-                <a href="{{ post.url }}">
-                <img class="grid-image" src="{{ post.image }}">
+                <a href="{{ post.url }}"><div class="grid-div" style="background-image:url('{{ post.image }}')">
+                </div></a>
             </div>
         {% endif %}
         {% endfor %}
@@ -26,14 +26,15 @@ layout: default
         {% for post in site.posts %}
         {% if post.path contains "/row3" %}
             <div class=col-sm>
-                <a href="{{ post.url }}">
-                <img class="grid-image" src="{{ post.image }}">
+                <a href="{{ post.url }}"><div class="grid-div" style="background-image:url('{{ post.image }}')">
+                </div></a>
             </div>
         {% endif %}
         {% endfor %}
         <div class=col-sm>
             <a href="">
-            <div class="grid-image">{{ page.content }}</div>
+            <div class="grid-div pdf-download">{{ page.content }}</div>
+            </a>
         </div>
     </div>
 </div>

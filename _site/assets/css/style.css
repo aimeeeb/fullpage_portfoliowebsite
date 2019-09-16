@@ -103,8 +103,15 @@ main {
 	padding: 20px;
 }
 
-.grid-image {
-	height: 100%; 
-	width: 100%; 
-	object-fit:cover
+.grid-div {
+	width:100%;
+	height:100%;
+	background-size: cover;
+}
+	.grid-div:hover {
+		filter: blur(4px);
+	}
+
+.pdf-download {
+	text-align:center;
 }
