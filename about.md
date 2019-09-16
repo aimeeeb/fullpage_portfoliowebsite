@@ -3,4 +3,7 @@ title: About
 layout: default
 url: /about
 ---
-Hello I am Aimee.
+
+# About Aimee
+
+Hello I am **Aimee**.
