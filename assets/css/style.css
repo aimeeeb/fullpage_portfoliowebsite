@@ -87,7 +87,7 @@ main {
 }
 
 .grid {
-	height: 100%;
+	height: 100% !important;
 	margin: 0 !important;
 	padding: 0 !important;
 	max-width: 100% !important;
@@ -101,4 +101,10 @@ main {
 
 .post-content {
 	padding: 20px;
+}
+
+.grid-image {
+	height: 100%; 
+	width: 100%; 
+	object-fit:cover
 }
