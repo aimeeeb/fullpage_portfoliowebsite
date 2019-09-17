@@ -226,6 +226,7 @@ main {
 /*RESPONSIVENESS*/
 #topbar {
 	display: none;
+	font-family: 'Montserrat', sans-serif;
 }
 
 #topbar-title {
@@ -287,5 +288,9 @@ main {
 		text-transform: lowercase;
 		position: relative;
 		z-index: 3;
+	}
+
+	.default-content, .post-content {
+		padding-right: 3%;
 	}
 }
