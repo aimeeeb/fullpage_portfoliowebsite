@@ -195,11 +195,7 @@ main {
     vertical-align: middle;
     color: white;
     z-index: 1;
-    font-size: 18pt;
-	font-weight: bold;
 	line-height: 18pt;
-	font-family: 'Montserrat', sans-serif;
-	font-weight: bold;
 	visibility: hidden;
 	padding: 25% 4%;
 }
