@@ -224,16 +224,7 @@ main {
 
 /*RESPONSIVENESS*/
 #topbar {
-	visibility: hidden;
-    height: 60px;
-    background-color: black;
-    color: white;
-    padding: 18px;
-    font-size: 1.5rem;
-	line-height: 1.5rem;
-	text-transform: lowercase;
-	position: relative;
-	z-index: 3;
+	display: none;
 }
 
 #topbar-title {
@@ -248,7 +239,7 @@ main {
 }
 
 .top {
-	visibility: hidden;
+	display: none;
 }
 
 @media only screen and (max-width: 885px) {
@@ -284,6 +275,15 @@ main {
 		}
 
 	#topbar {
-		visibility: visible;
+		display: block;
+		height: 60px;
+		background-color: black;
+		color: white;
+		padding: 18px;
+		font-size: 1.5rem;
+		line-height: 1.5rem;
+		text-transform: lowercase;
+		position: relative;
+		z-index: 3;
 	}
 }
