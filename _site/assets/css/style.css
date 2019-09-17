@@ -293,4 +293,8 @@ main {
 	.default-content, .post-content {
 		padding-right: 3%;
 	}
+
+	.post-link:hover .post-title {
+		visibility: hidden;
+	}
 }
