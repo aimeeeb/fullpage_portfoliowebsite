@@ -14,6 +14,17 @@ body {
     table-layout: fixed;
 }
 
+img {
+	max-width: 100%;
+	max-height: 600px;
+}
+
+h1, h2, h3, h4, h5 {
+	text-transform: lowercase;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900 !important;
+}
+
 /*SIDEBAR*/
 
 header {
@@ -81,6 +92,7 @@ header {
 		color: #a05;
 	}
 
+
 .bottom {
 	display: table-row;
 	height: 5%;
@@ -93,20 +105,62 @@ header {
 	font-size: .75rem;
 }
 
+.nav-icons {
+	position: relative;
+}
+
+.nav-icons i{
+	color: white;
+	margin-top: 1.5rem;
+	padding-right: 1.75rem;
+	font-size: 1.25rem;
+}
+
+	.nav-icons:hover i{
+		color: #a05;
+	}
+
+.nav-icons .tooltiptext {
+	font-size: .75rem;
+	font-style: italic;
+	line-height: .75rem;
+	visibility: hidden;
+	width: 7rem;
+	left: 50%;
+	margin-left: -30px;
+	margin-top: 55px;
+	background-color: #a05;
+	color: #fff;
+	text-align: center;
+	padding: 5px 0;
+	border-radius: 6px;
+   	position: absolute;
+	z-index: 1;
+}
+
+	.nav-icons:hover .tooltiptext {
+		visibility: visible;
+	}
+
 /*CONTENT*/
 
 main {
     position: relative;
-    display: table-row;
-    height: 100%;
+	display: table-row;
+	height: 100%;
+}
+
+.default-content {
+	padding: 3%;
+	padding-right: 20%;
 }
 
 .row {
-	height: 33.333333%;
+	height: 100%;
 	margin: 0 !important;
 }
 
-.col-sm {
+.col-4 {
 	padding: 0 !important;
 }
 
@@ -115,8 +169,52 @@ main {
 	margin: 0 !important;
 	padding: 0 !important;
 	max-width: 100% !important;
+	background: black;
 }
 
+.post-spot {
+	width:100%;
+	height:100%;
+	position: absolute;
+	background-size: cover;
+	background-position: center;
+	background-color: white;
+	overflow: hidden;
+}
+	.post-link:hover .post-spot{
+		filter: blur(10px);
+		background-size: 200%;
+		opacity: .5;
+	}
+
+.post-title {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    z-index: 1;
+    font-size: 18pt;
+	font-weight: bold;
+	line-height: 18pt;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+	visibility: hidden;
+	padding: 25% 4%;
+}
+
+	.post-link:hover .post-title {
+		visibility: visible;
+	}
+
+.pdf-download {
+	text-align:center;
+	width:100%;
+	height:100%;
+}
+
+/*POSTS*/
 .post-image {
 	width: 100%;
 	height: 300px;
@@ -124,22 +222,14 @@ main {
 }
 
 .post-content {
-	padding: 20px;
+	padding: 3%;
+	padding-right: 20%;
 }
 
-.grid-div {
-	width:100%;
-	height:100%;
-	background-size: cover;
-	background-position: center;
-}
-	.grid-div:hover {
-		filter: blur(10px);
-		background-size: 200%;
+/*RESPONSIVENESS*/
+
+@media only screen and (max-width: 600px) {
+	.header-wrapper {
+	  display: none;
 	}
-
-.pdf-download {
-	text-align:center;
-	width:100%;
-	height:100%;
 }
