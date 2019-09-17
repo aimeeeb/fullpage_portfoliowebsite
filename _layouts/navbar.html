@@ -19,11 +19,32 @@
 <link href="/assets/fontawesome/css/brands.css" rel="stylesheet">
 <link href="/assets/fontawesome/css/solid.css" rel="stylesheet">
 
+<script>
+    function showNav() {
+        var menu = document.getElementById("sidebar");
+        menu.setAttribute("style", "visibility:visible;z-index:4");
+    }
+
+    function hideNav() {
+        var menu = document.getElementById("sidebar");
+        menu.removeAttribute("style");
+    }
+</script>
+
 </head>
 <body>
-    <header>
+    <div id="topbar">
+        <a onclick="showNav()"><i class="fas fa-bars"></i></a>
+        <span><a id="topbar-title">Aimee Bowen</a><span id="topbar-description">UI|UX Designer</span></span>
+    </div>
+    <header id="sidebar">
         <div class="header-wrapper">
-            <div class="section middle">
+            <div class="top">
+                <a onclick="hideNav()"><i class="fas fa-chevron-left"></i></a>
+            </div>
+
+
+            <div class="middle">
                 
                 
                 <div id="title">
@@ -60,7 +81,7 @@
                 </ul>
             </div>
 
-            <div class="section bottom">
+            <div class="bottom">
                 <div id="my-footer">© 2019 Aimee Bowen</div>
             </div>
                         

@@ -23,7 +23,6 @@ h1, h2, h3, h4, h5 {
 	text-transform: lowercase;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 900 !important;
-	line-height: 4rem !important;
 }
 
 /*SIDEBAR*/
@@ -224,9 +223,67 @@ main {
 }
 
 /*RESPONSIVENESS*/
+#topbar {
+	visibility: hidden;
+    height: 60px;
+    background-color: black;
+    color: white;
+    padding: 18px;
+    font-size: 1.5rem;
+	line-height: 1.5rem;
+	text-transform: lowercase;
+	position: relative;
+	z-index: 3;
+}
 
-@media only screen and (max-width: 600px) {
+#topbar-title {
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+#topbar-description {
+	font-size: 1rem;
+	padding-left: 10px;
+	font-weight: lighter;
+}
+
+.top {
+	visibility: hidden;
+}
+
+@media only screen and (max-width: 885px) {
+	body {
+		padding: 0;
+	}
+
+	#sidebar {
+	  visibility: hidden;
+	  width: 100%;
+	  position: absolute;
+	  z-index: 2;
+	}
+
 	.header-wrapper {
-	  display: none;
+		padding: 0px 5%;
+	}
+
+	.middle {
+		height: 85%
+	}
+
+	.top {
+		visibility: visible;
+		display: table-row;
+		height: 10%;
+		width: 100%;
+		vertical-align: top;
+	}
+
+		.top i {
+			padding-top: 5%;
+		}
+
+	#topbar {
+		visibility: visible;
 	}
 }
