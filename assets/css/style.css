@@ -289,4 +289,8 @@ main {
 		position: relative;
 		z-index: 3;
 	}
+
+	.default-content, .post-content {
+		padding-right: 3%;
+	}
 }
