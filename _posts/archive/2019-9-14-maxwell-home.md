@@ -1,0 +1,42 @@
+---
+title: Maxwell Home
+layout: posts
+permalink: /maxwell-home
+category: identity & packaging
+image: /assets/img/maxwell_home_hero.png
+---
+Maxwell House is a popular coffee brand that began in 1982 and for years was the
+highest selling coffee in the United States. Now, the company ventures into a new type
+of coffee with their sub brand, Maxwell Home. This is a high-end brand that produces
+organic coffee. Maxwell Home is targeted towards coffee lovers concerned with their
+health but the new coffee may be most successful at converting loyal Maxwell House
+customers. This means that the brand’s new, unique logo and packaging should visually
+relate to the original Maxwell House brand while also representing the organic coffee.
+
+#### Solution
+
+![](/assets/img/maxwell_home_design.png)
+
+The Maxwell House brand is most recognizable by its iconic blue
+color. This is why the most present color on the packaging is a
+blue. In addition, the Maxwell House logo is included on the side
+of the packaging. Besides these elements, the rest of the brand is
+intended to push into a new market and attract new customers.
+
+The logo’s simplicity brings in the concept of a high-end brand,
+along with the elegance of a circle. The shape and style also
+resembles a stamp for a homemade product. Homemade items,
+such as ones being sold at a farmer’s market, are usually organic
+and the logo adds that to the idea of the brand.
+
+The overall goal of the brand is to represent Maxwell Home as
+an organic coffee. While the majority of natural brands may
+represent this idea with the use of the color green, leaves, or
+coffee beans, this brand uses a more indirect approach. With the
+tag line, “Coffee that grew with the sun,” the packaging utilizes
+the color blue to imagine bright skies stretching above a coffee
+field. When people are enjoying nature, maybe by hiking or
+playing in a park, the reason they go out is because of blue skies.
+The yellow and circle shape of the logo represents the sun and
+it is the hero of the packaging, just as the sun is the reason the
+organic coffee is able to grow
