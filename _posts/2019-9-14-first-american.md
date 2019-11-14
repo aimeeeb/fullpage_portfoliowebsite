@@ -2,44 +2,19 @@
 title: First American Home Loans
 layout: posts
 permalink: /first-american
-category: ui|ux
+category: website
 image: /assets/img/firstamerican_hero.png
 ---
-First American Home Loans is a California-based company that offers services for home
-owners such as mortgage refinancing. Currently, their online website serves to provide
-more information about the services offered by the company and encourages viewers
-to get in contact with an agent. Because of their work in finances, the company needed
-to be represented as trustworthy. The website design and content needed to encourage
-this view as well as relate to the target audience.
+First American Home Loans is a California-based company that offers services for home owners such as mortgage refinancing. 
 
-#### Solution
+### challenge
 
-A persona was created to represent the audience and influence
-the direction of the design, which is intended to create a more
-emotional connection with viewers. The persona is a old, retired
-couple looking for a way to feel comfortable in their retirement.
-With this is mind, the imagery in the redesign shifted to mainly
-showing elderly people who appear to be relaxing. The text is
-also meant to be larger, to accommodate for visual impairments.
+First American Home Loans wants to modernize their website to reach more customers. The main target audience of this company are homeowners near the age of retirement. The new website should target this group and represent the company as trustworthy and experienced, important traits for companies working with finances.
 
-To make the goal of the website clear, the home page has
-immediate calls to action. “Get Started” leads to a form to sign
-up for a mailing list and is made to stand out on the navigation
-bar as well as the first load. Orange, pulled from the company’s
-branding, is used as an accent color to draw attention towards
-items of interest, such as buttons.
+### solution
 
-The main goal of the website is to provide the customer with
-trust in First American Home Loans. This is why the first section
-in the scroll after the call to action is a “Who are we” section.
-The company immediately introduces themselves and the
-section encourages users to navigate to the “About Us” section
-to learn more. In addition, photography is a main visual element.
-Photos often feel genuine and trustworthy, especially to an older
-audience. It makes it clear that real people are working at First
-American Home Loans and real people are reaching out to the
-company for their financial needs. This is also achieved with
-the addition of testimonials, which will feature images of real
-customers and real quotes. Overall, this new design is meant to
-humanize the company and communicate to customers that this
-is a genuine, trustworthy service.
+The two main goals of the First American Home Loan’s website are to share information and to reach potential new clients, with the latter being priority. On the home page, above the fold there are call to action buttons for “Learn More” and “Get Started,” making it as easy as possible to direct a user in a way that meets the client’s needs. The client’s brand colors, blue and orange, are used throughout the website to enhance brand recognition. Orange, being the brighter color that attracts more attention, is used to any call to action buttons that take priority.
+
+In this website, photography became an important element. As a company that deals with finances, it is important to cultivate a sense of trust. Because photography is usually a glance at the real world, it can make the brand seem more genuine. In addition, it can make it clear without reading what services they offer. The photos will include Orange County-style homes and people of an older age, which would branch a connection to the target user. For their “About Us” page, real photos of employees will be used to clearly communicate that clients will be meeting with real people.
+
+**icons.** Custom icons were created for the website to communicate at a glance the services that First American Home Loans wants clients to get excited about. The company’s identity has curved lines with a lot of motion, so this style is referenced in the icons.
