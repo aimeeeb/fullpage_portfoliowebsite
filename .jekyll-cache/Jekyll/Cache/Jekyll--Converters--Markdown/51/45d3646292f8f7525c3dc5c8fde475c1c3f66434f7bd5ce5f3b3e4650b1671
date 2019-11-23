@@ -1,0 +1,22 @@
+I"<p>Mitate is a “create your own zen garden” idle mobile game. The goal of Mitate is to be used as a teaching tool. Ideally, the use of the app will cause users to better appreciate zen gardens in real life.</p>
+
+<h3 id="challenge">challenge</h3>
+
+<p>The app interface needs to visually celebrate the history of zen gardens. The experience of the app should ensure it is an enjoyable game to play while also easy to understand. It should also celebrate the goal of teaching users about zen gardens.</p>
+
+<h3 id="solution">solution</h3>
+
+<p><strong>name.</strong> The name Mitate comes from the Japanese word for the practice of using metaphors or imagination in garden design. This concept is represented in the app with the unique names for each object for the garden such as “hills” for a pile of rocks or “river” for a path of pebbles. Outside of the imaginative aspect of the objects, there are items that were historically used in zen gardens. The “boat” is based on a specific stone in the garden of the Daisen-in temple in Kyoto. The “mountain” comes from a mound of sand from Ginkaku-ji (Temple of the Silver Pavilion). This makes the app, despite being on a phone and in a simplistic illustration style, as authentic to traditional zen gardening as possible.</p>
+
+<p><img src="/assets/img/mitate_screens.png" alt="" /></p>
+
+<p><strong>illustration style.</strong> The style used for the objects in the app play with texture to represent the materials used in zen gardens (usually sand or gravel). The use of black outlines and the brush style references traditional calligraphy and painting in China and Japan, where zen gardens have a great presence. Painting and gardening are both important parts of Buddhism, so it is natural for them to be together.</p>
+
+<p><strong>game play.</strong> Users have the option of adding garden items, changing their fence, and changing their scenery. In zen gardens, there is a concept called borrowed scener where the location and the background are important aspects of the design. Giving users these options allows them to be more aware of how much thought is put into professional gardens.
+The point of the app is not simply to make a pretty garden but also causes users to practice the discipline of constantly needing to upkeep their garden. Leaves will appear in the app that need to constantly be removed by the user. The interactivity of having to constantly check into the app to remove leaves retains the idea that zen gardens are meant to be a tool for meditation and hardwork: two things valued in Zen Buddhism. It allows users to experience a meditative moment each day where they can briefly forget about the temptations of the outside world and focus on one repetitive task.</p>
+
+<p><strong>user interface.</strong> The UI design is kept minimal to keep the focus of the user on the garden and the elements going into it. It is intended to make it easy to use so that all of the user’s effort can be on designing a garden that they can be happy with.</p>
+
+<p><img src="/assets/img/mitate_gif.gif" alt="" /></p>
+
+:ET
