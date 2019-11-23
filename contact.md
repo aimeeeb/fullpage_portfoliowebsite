@@ -4,20 +4,22 @@ layout: default
 url: /contact
 ---
 
+# contact me
+
 <form
   action="https://formspree.io/xpzawpjj"
   method="POST"
 >
   <label>
-    Your email:
+    email
     <input type="text" name="_replyto">
   </label>
   <label>
-    Your message:
+    message
     <textarea name="message"></textarea>
   </label>
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">send</button>
 </form>
