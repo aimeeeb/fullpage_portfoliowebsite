@@ -7,6 +7,7 @@ url: /contact
 # contact me
 
 <form
+  id="contact-form"
   action="https://formspree.io/xpzawpjj"
   method="POST"
 >
