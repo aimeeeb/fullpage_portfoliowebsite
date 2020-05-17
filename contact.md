@@ -2,9 +2,8 @@
 title: Contact
 layout: default
 url: /contact
+sidebar: I am currently looking for a full time job in product design or UI/UX design. I am also available to do freelance work. Please contact me with any questions.
 ---
-
-# contact me
 
 <form
   id="contact-form"

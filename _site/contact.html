@@ -37,7 +37,7 @@
 <body>
     <div id="topbar">
         <a onclick="showNav()"><i class="fas fa-bars"></i></a>
-        <span><a id="topbar-title"><img src="/assets/img/aimeedesigns_logo.svg"></a></span>
+        <span><a id="topbar-title"><span id="mobile-aimee">aimee </span><span id="mobile-designs">designs</span></a></span>
     </div>
     <header id="sidebar">
         <div class="header-wrapper">
@@ -50,7 +50,7 @@
                 
                 
                 <div id="title">
-                    <a href="/"><img src="/assets/img/aimeedesigns_logo.svg"></a>
+                    <a href="/"><img class="logo" src="/assets/img/aimeedesigns_logo.svg"></a>
                 </div>
                 
 
@@ -79,10 +79,15 @@
         </div>
     </header>  
         <main>
-            <div class="default-content">
-    <h1 id="contact-me">contact me</h1>
-
-<form id="contact-form" action="https://formspree.io/xpzawpjj" method="POST">
+            <div class="default-page">
+    <div class="default-header">
+        <h1> Contact </h1>
+        <h3 class="default-category">  </h3>
+    </div>
+    <div class="container grid">
+        <div class="row">
+            <div class="col-8 default-content">
+                <form id="contact-form" action="https://formspree.io/xpzawpjj" method="POST">
   <label>
     email
     <input type="text" name="_replyto" />
@@ -97,6 +102,12 @@
   <button type="submit">send</button>
 </form>
 
+            </div>
+            <div class="col-4 sidebar">
+                I am currently looking for a full time job in product design or UI/UX design. I am also available to do freelance work. Please contact me with any questions.
+            </div>
+        </div>
+    </div>
 </div>
         </main>
     </body>

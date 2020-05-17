@@ -4,7 +4,7 @@ layout: default
 url: /experience
 ---
 
-#### Organizations
+##### Organizations
 
 *User Experience Society - Chapman University \| Orange, CA*
 <br>
@@ -14,7 +14,7 @@ url: /experience
 
 <br>
 
-#### Work Experience
+##### Work Experience
 
 *LAB - Chapman University \| Orange, CA*
 <br>

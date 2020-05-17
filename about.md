@@ -1,9 +1,33 @@
 ---
 title: About
-layout: default
+layout: about
 url: /about
+tags:
+    - ui design
+    - ux design
+    - ux research
+    - logo & branding
+    - wayfinding
+    - map design
+    - website design
 ---
 
-# About Aimee
+# hello and welcome
 
-I am a designer born and raised in Honolulu, HI. Currently, I am attending classes at Chapman University in Orange, California for two degrees: **BFA in Graphic Design** and **BS in Computer Information Systems**. I have loved art since I was a child but UI/UX design is where I truly found a way to express my passion for problem solving and my curiosity about technology.
+My name is Aimee Bowen and I am a UI/UX designer based in Honolulu, HI. I have loved creating things since I was a child and now I am passionate about problem solving for the benefit of others. Creating products designed to improve the lives of others is what I'm really excited about. I graduated from Chapman University in Orange, California in May 2020 with two degrees: BFA in Graphic Design and BS in Computer Information Systems. If you need design consultation for a website, an app, your brand, or something else, feel free to [contact me](/contact).
+
+<br>
+
+# how do i approach design?
+
+I believe design should take you somewhere.
+
+“Somewhere” could be the restaurant you see in the advertisement at the store or the future company that you just made a new logo for. 
+
+I am someone who is always finding different ways to get to places, experimenting with driving, biking, and public transportation, and I especially love my bike. When I want to bike somewhere regularly, I experiment with a few routes before I finally find the one that I take every time. The first route is very rarely the best one. Designing, for me, is the same. The first sketch isn’t perfect but I keep going until I find the design, like my bike path, that can be used everyday.
+
+To simplify my creative process, my belief is that to create something good, you have to start by creating something. This idea can be found in everything I create. I took up acrylic painting when I was younger and I always began with blotches of indistinct figures. Gradually, I would add more and more detail, sometimes changes the background color two or three times, until the image became recognizable to anyone.
+
+This agile thinking is partly inspired by my experience with computer programming, where you often have to pave your way through error codes. I realize the logic and semicolons in code and the creativity and vectors of design seem so different but I love what the two have in common. I am a problem solver. I love creatively working through a problem, whether the solution is a program or a logo. Either way, I end up creating something that a person—the audience—can use.
+
+That is always the goal. I keep in mind the target audience and create something that is useful to them. When I consider a cyclist, their route has to safely take them to where they want to go. When I tried my hand at painting, my end goal was to create something that the viewer could recognize. Like a computer program, design is functional. It should take you somewhere.

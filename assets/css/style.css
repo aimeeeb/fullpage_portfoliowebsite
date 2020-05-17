@@ -19,11 +19,31 @@ img {
 	max-height: 600px;
 }
 
+p, li {
+	font-family: Montserrat, sans-serif;
+	font-size: 10pt;
+}
+
 h1, h2, h3, h4, h5 {
 	text-transform: lowercase;
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 900 !important;
 }
+
+	h1 {
+		font-weight: 900 !important;
+		letter-spacing: 3pt;
+	}
+
+	h3 {
+		font-weight: 600 !important;
+		letter-spacing: 4pt;
+	}
+
+	h4 {
+		font-weight: 600 !important;
+		letter-spacing: 3pt;
+		padding-top: 16pt;
+	}
 
 /*SIDEBAR*/
 
@@ -71,6 +91,7 @@ header {
 	color: white;
 	font-weight: 700;
 	letter-spacing: 1pt;
+	font-size: 14pt;
 }
 
 	.nav-link:hover {
@@ -112,8 +133,12 @@ main {
 	height: 100%;
 }
 
-.default-content {
+.default-page {
 	padding: 5rem;
+}
+
+.default-content {
+	padding-left: 0 !important;
 }
 
 .row {
@@ -148,6 +173,10 @@ main {
 		opacity: .5;
 	}
 
+.home-columns {
+	background: black;
+}
+
 .post-title {
     position: absolute;
     height: 100%;
@@ -178,13 +207,16 @@ main {
 	object-fit: cover;
 }
 
-.post-content {
-	padding: 3%;
-	font-family: Montserrat, sans-serif;
-	font-size: 10pt;
+.post-header h1 {
+	margin-bottom: 0;
+	line-height: 2.5rem;
 }
 
-.post-sidebar {
+.post-content {
+	padding: 3%;
+}
+
+.sidebar {
 	padding-left: 5rem !important;
 	color: #cbb;
 }
@@ -212,6 +244,14 @@ main {
 	font-weight: 700;
 }
 
+.about-sidebar ul li:before {
+	list-style-type: unset;
+}
+
+	.about-sidebar ul li:before {
+		content: none;
+	}
+
 
 /*CONTACT FORM*/
 
@@ -227,6 +267,34 @@ main {
 #contact-form label, #contact-form input, #contact-form textarea {
     width: 100%;
     font-family: 'Montserrat', sans-serif;
+}
+
+#contact-form textarea {
+	height: 170px;
+}
+
+/* ARCHIVE */
+
+.archive-img {
+    height: 270px;
+    background-size: cover;
+    margin-top: 30px;
+}
+
+.archive-title {
+	background: rgba(0,0,0,75%);
+	height: 100%;
+	color: white;
+	padding: 15% 28%;
+    text-align: center;
+}
+
+.archive-link:hover .archive-title {
+	background:none;
+}
+
+.archive-link:hover .archive-title h2 {
+	visibility: hidden;
 }
 
 /*RESPONSIVENESS*/
@@ -248,6 +316,14 @@ main {
 
 .top {
 	display: none;
+}
+
+#mobile-aimee {
+	visibility: hidden;
+}
+
+#mobile-designs {
+	visibility: hidden;
 }
 
 @media only screen and (max-width: 885px) {
@@ -285,20 +361,35 @@ main {
 
 	#topbar {
 		display: block;
-		height: 10vh;
-		min-height: 60px;
+		height: 85px;
 		background-color: black;
 		color: white;
-		padding: 18px;
+		padding: 15px 38px;
+		vertical-align: middle;
 		font-size: 1.5rem;
-		line-height: 1.5rem;
-		text-transform: lowercase;
 		position: relative;
 		z-index: 3;
 	}
 
-	.grid {
-		height: 90vh !important;
+	.logo {
+		height: 100px;
+	}
+
+	#topbar-title {
+		padding-left: 2rem;
+	}
+
+	#mobile-aimee {
+		visibility: visible;
+		font-weight: 700;
+		font-size: 25pt;
+		color: #f66;
+	}
+
+	#mobile-designs {
+		visibility: visible;
+		text-transform: uppercase;
+		font-weight: 100;
 	}
 
 	.default-content, .post-content {
@@ -311,7 +402,5 @@ main {
 }
 
 @media only screen and (max-width: 362px) {
-	#topbar-description {
-		visibility: hidden;
-	}
+
 }
