@@ -113,8 +113,7 @@ main {
 }
 
 .default-content {
-	padding: 3%;
-	padding-right: 20%;
+	padding: 5rem;
 }
 
 .row {
@@ -122,7 +121,7 @@ main {
 	margin: 0 !important;
 }
 
-.col-4 {
+.home-columns {
 	padding: 0 !important;
 }
 
@@ -131,7 +130,6 @@ main {
 	margin: 0 !important;
 	padding: 0 !important;
 	max-width: 100% !important;
-	background: black;
 	overflow: hidden;
 }
 
@@ -182,8 +180,38 @@ main {
 
 .post-content {
 	padding: 3%;
-	padding-right: 20%;
+	font-family: Montserrat, sans-serif;
+	font-size: 10pt;
 }
+
+.post-sidebar {
+	padding-left: 5rem !important;
+	color: #cbb;
+}
+
+.tags {
+	padding-left: 0;
+}
+
+.tags li {
+	list-style-type: none;
+}
+
+	.tags li:before {
+		content: '#';
+		margin-right: 15px;
+	}
+
+.post-header {
+	padding: 15px;
+}
+
+/* ABOUT */
+
+#about-aimee {
+	font-weight: 700;
+}
+
 
 /*CONTACT FORM*/
 

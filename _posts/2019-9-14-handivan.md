@@ -4,6 +4,10 @@ layout: posts
 permalink: /handivan
 category: ux/ui
 image: /assets/img/handivan_hero.jpg
+tags:
+  - user-interface
+  - user-experience
+  - mobile
 ---
 The Handi-Van is a bus service run by the City & County of Honolulu for individuals who
 cannot take the regular bus service, qualifying based on the Americans with Disabilities

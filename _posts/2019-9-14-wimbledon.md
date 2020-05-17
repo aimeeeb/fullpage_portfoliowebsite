@@ -4,6 +4,11 @@ layout: posts
 permalink: /wimbledon
 category: identity & map
 image: /assets/img/wimbledon_hero.png
+tags:
+  - identity
+  - information
+  - brochure
+  - map
 ---
 The Championships: Wimbledon is a prestigious tennis competition in London.
 Attendees and competitors come from all around the world. Because of this, Wimbledon

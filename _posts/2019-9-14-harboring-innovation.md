@@ -4,6 +4,8 @@ layout: posts
 permalink: /harboring-innovation
 category: identity
 image: /assets/img/harboringinnovation_hero.png
+tags:
+  - identity
 ---
 Eastern Communication Association (ECA) promotes excellence in research, teaching, criticism, and communication theory. The association hosts an annual convention, with a different city and a different theme each year. 
 

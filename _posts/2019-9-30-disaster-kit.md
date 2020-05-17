@@ -4,6 +4,9 @@ layout: posts
 permalink: /disaster-kit
 category: packaging
 image: /assets/img/disaster_packagingoutside.jpg
+tags:
+  - packaging
+  - research
 ---
 
 In the event of a disaster, access to homes, running water, or food can be scarce. A disaster may refer to a natural disaster such as an earthquake or a hurricane or a man-made disaster like a terrorist attack. In Southern California, earthquakes are a common natural disaster and the “Big One,” an 8+ magnitude earthquake along the San Andreas Faultline, is predicted to occur at any moment. People need to have an emergency kit ready ahead of time to ensure that they have necessary recourses.

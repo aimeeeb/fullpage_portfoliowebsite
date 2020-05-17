@@ -4,6 +4,9 @@ layout: posts
 permalink: /first-american
 category: website
 image: /assets/img/firstamerican_hero.png
+tags:
+  - user-interface
+  - wix
 ---
 First American Home Loans is a California-based company that offers services for home owners such as mortgage refinancing. 
 
