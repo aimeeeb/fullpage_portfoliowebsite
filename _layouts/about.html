@@ -1,0 +1,20 @@
+---
+layout: navbar
+---
+<div class="default-page">
+    <div class="container grid">
+        <div class="row">
+            <div class="col-8 default-content">
+                {{ content }}
+            </div>
+            <div class="col-4 sidebar about-sidebar">
+                <p>what do i do?</p>
+                <ul>
+                    {% for tag in page.tags %}
+                      <li>{{ tag }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

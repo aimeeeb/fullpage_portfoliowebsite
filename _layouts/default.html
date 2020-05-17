@@ -1,6 +1,19 @@
 ---
 layout: navbar
 ---
-<div class="default-content">
-    {{ content }}
+<div class="default-page">
+    <div class="default-header">
+        <h1> {{ page.title }} </h1>
+        <h3 class="default-category"> {{ page.category }} </h3>
+    </div>
+    <div class="container grid">
+        <div class="row">
+            <div class="col-8 default-content">
+                {{ content }}
+            </div>
+            <div class="col-4 sidebar">
+                {{ page.sidebar }}
+            </div>
+        </div>
+    </div>
 </div>
