@@ -12,11 +12,11 @@ a brand to capture the fun of drinking a milkshake here. This identity will incl
 color palette, and overall feel that will connect the future interior design of the store,
 the menu, and the store’s website.
 
-#### Audience
+##### Audience
 
 The main target audience of Milk Shake It Up™ are teenagers. Based on the assumption that that age group is always looking for a place to hang out away from home and school, Milk Shake It Up can offer the perfect retreat. Teenager girls especially may be attracted to the cute style of the eatery. Based on this audience's continuous exposure to technology, the store will greatly benefit from an online presence or a mobile app.
 
-#### Solution
+##### Solution
 
 ![](/assets/img/milkshake_design.png)
 

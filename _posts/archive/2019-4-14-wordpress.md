@@ -13,7 +13,7 @@ of the interface are busy and unintuitive. They require a lot of steps that are 
 immediately obvious to new users. In addition, the interface of the app could use a face
 lift to match the more contemporary UI of popular apps like Twitter or Instagram.
 
-### Solution
+#### Solution
 
 ![](/assets/img/wordpress_design.png)
 

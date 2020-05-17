@@ -13,7 +13,7 @@ health but the new coffee may be most successful at converting loyal Maxwell Hou
 customers. This means that the brand’s new, unique logo and packaging should visually
 relate to the original Maxwell House brand while also representing the organic coffee.
 
-#### Solution
+##### Solution
 
 ![](/assets/img/maxwell_home_design.png)
 

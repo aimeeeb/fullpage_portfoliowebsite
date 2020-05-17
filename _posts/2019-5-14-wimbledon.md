@@ -18,7 +18,7 @@ to get to Wimbledon through two different forms of transportation: car and publi
 transportation. The visitors will also need a campus map, showing them how to get from
 parking lots or public transportation, to event locations.
 
-#### Solution
+##### Solution
 
 ![](/assets/img/wimbledon_design.png)
 

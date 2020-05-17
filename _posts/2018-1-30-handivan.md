@@ -16,7 +16,7 @@ The Handi-Van services include reserving a ride via phone call, rider alerts thr
 certain website, and a separate page for tracking your reserved ride. Each service is
 separate, so this prototype imagines them brought together into one app.
 
-#### Solution
+##### Solution
 
 ![](/assets/img/handivan_design.png)
 

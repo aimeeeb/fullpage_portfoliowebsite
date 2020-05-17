@@ -11,13 +11,13 @@ tags:
 
 In the event of a disaster, access to homes, running water, or food can be scarce. A disaster may refer to a natural disaster such as an earthquake or a hurricane or a man-made disaster like a terrorist attack. In Southern California, earthquakes are a common natural disaster and the “Big One,” an 8+ magnitude earthquake along the San Andreas Faultline, is predicted to occur at any moment. People need to have an emergency kit ready ahead of time to ensure that they have necessary recourses.
 
-#### Project Goals
+##### Project Goals
 
 The goal is to create a disaster kit that will be issued by the California Governor’s Office of Emergency Services after an emergency. It must include a 3-day supply of food and water, a flashlight with batteries, hand sanitizer, first aid supplies, and an emergency mylar blanket. In addition, the products should be branding to appear cohesive and trustworthy, especially with the inclunsion of the California OES logo. 
 
 All items will be combined into a packaging solution that must survive at least a 2-story drop. This will allow the kit to be quickly delivered without a concern for damage.
 
-#### Solution
+##### Solution
 
 ![](/assets/img/disaster_ondesk_closeup.jpg)
 
@@ -35,7 +35,7 @@ All items will be combined into a packaging solution that must survive at least 
 
 **INFORMATIONAL PACKET** Almost every part of the disaster kit can be used for more than one purpose. The information kit describes different uses for each item. It is double sided, one side in English and the other in Spanish, and is held together on a keyring. (Sources: [1](https://www.outdoorrevival.com/well-being/topsurvival-uses-for-hand-sanitizer.html), [2](https://unchartedsupplyco.com/blogs/news/survival-paracord-uses), [3](https://urbansurvivalsite.com/survival-uses-mylarblankets/))
 
-##### Description
+###### Description
 
 The packaging solution is simple. The products are rolled into a blanket for padding, rolled with an emergency blanket to protect it from dirt, and tied off with paracord. Rolling the items is a simple way to protect them from impact, the elements, and any dirt or dust. In addition, the paracord acts as a handle but the small package could be placed inside or attached to the outside of a backpack. Because a blanket has a flexibile form, this also allows for users to add any other supplies they may need without worrying about running out of space.
 
@@ -45,7 +45,7 @@ The color palette is also intended to reduce stress in the person using it. Colo
 
 To further develop trust in the product, along with using the California OES logo, the packaging is kept consistent with the surfaces being split between a white and a colored background. This brings higher contrast and therefore greater attention to the main identifiying features of the items such as the cross for the first aid kit or the title for packages like “EMERGENCY FOOD.” This also gives color a role in identifying the items. Food and water are grouped together with the light blue color, first aid uses red, hand sanitizer uses blue (the same color as the flashlight), and the information uses green. This means that although the color palette is cohesive, the products are visually separated into different categories.
 
-#### Research
+##### Research
 
 ![](assets/img/disaster_moodboard.png)
 

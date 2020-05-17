@@ -9,11 +9,11 @@ tags:
 ---
 Eastern Communication Association (ECA) promotes excellence in research, teaching, criticism, and communication theory. The association hosts an annual convention, with a different city and a different theme each year. 
 
-### challenge
+#### challenge
 
 In 2020 the ECA Conference is in Baltimore where innovation, start-ups, and technology flourish. ECA named their 111th conference “Harboring Innovation” as a play on the location at Inner Harbor, a popular Baltimore sightseeing hub. This year, like every other, the convention requires a unique logo mark to represent the event.
 
-### solution
+#### solution
 
 ![](/assets/img/harboringinnovation_logo.png)
 

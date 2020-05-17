@@ -10,11 +10,11 @@ tags:
 ---
 First American Home Loans is a California-based company that offers services for home owners such as mortgage refinancing. 
 
-### challenge
+#### challenge
 
 First American Home Loans wants to modernize their website to reach more customers. The main target audience of this company are homeowners near the age of retirement. The new website should target this group and represent the company as trustworthy and experienced, important traits for companies working with finances.
 
-### solution
+#### solution
 
 The two main goals of the First American Home Loan’s website are to share information and to reach potential new clients, with the latter being priority. On the home page, above the fold there are call to action buttons for “Learn More” and “Get Started,” making it as easy as possible to direct a user in a way that meets the client’s needs. The client’s brand colors, blue and orange, are used throughout the website to enhance brand recognition. Orange, being the brighter color that attracts more attention, is used to any call to action buttons that take priority.
 

@@ -11,11 +11,11 @@ tags:
 ---
 Everyone is encouraged to celebrate their  backgrounds at the American Swedish Historical Museum, located in South Philadelphia, PA. The displays in the museum celebrate the culture and history of Sweden, Scandinavia, and Swedish-Americans.  There is a variety of examples of Scandinavian culture including architecture, furniture, design, and more. 
 
-### challenge
+#### challenge
 
 The American Swedish Historical Museum has a new audience: teachers who teach art. A re-branded brochure include important information about the museum, including a map, while also capturing the attention of this audience.
 
-### solution
+#### solution
 
 ![](/assets/img/americanswedish_design.png)
 
