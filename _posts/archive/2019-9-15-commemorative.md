@@ -5,10 +5,8 @@ permalink: /commemorative-poster-2020
 category: poster
 image: /assets/img/commemorative_hero.png
 tags:
-  - user-interface
-  - user-experience
-  - mobile
-  - identity
+  - illustration
+  - typography
 ---
 Every year, Chapman University design students create posters to commemorate the achievements of the university. One design is chosen to be handed out at the school’s President State of the University Address. It is a great way to celebrate the students, the campus, and the community.
 
@@ -18,6 +16,8 @@ The 2020 commemorative poster celebrates two of the new apartment buildings for 
 
 #### solution
 
-**layout.** The poster is simple and gives equal attention to both buildings.
+![](assets\img\commemorative_poster.png)
 
-**illustration.** The design features the structure of buildings created out of typography.
+**illustration.** The design features the structure of buildings created out of typography. The letters are phrases relating to Chapman and the buildings such as the names ("The K"), the addresses ("Palm Ave & Cypress Street"), and descriptions ("2 Bedroom Apartments"). This means that in addition to being decorative, the style shares information about the apartments. The use of type also analogous to ideas of education, representing the values of Chapman has a university. Lastly, the illustration stretches the type in perspective to capture the shape of the building but also to make it seem like there are people shouting in excitement about these dorms.
+
+**layout.** Since the poster celebrates two apartment buildings—"The K" and "Chapman Grand"—it was important to give equal weight to both. The focal point of the poster is the typographic illustration, which creates a large amount of white space in the structures of the building. Because of this, it was important to keep white space throughout the poster to avoid obscuring the shape of the illustration. To add a dynamic element, the buildings bleed off the page in different directions, breaking out of the border. This represents Chapman's goal of continuing the growth of the university and the campus.

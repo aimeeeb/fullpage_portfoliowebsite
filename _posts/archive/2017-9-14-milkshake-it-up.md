@@ -2,8 +2,14 @@
 title: Milk shake It Up
 layout: posts
 permalink: /milkshake-it-up
-category: identity & menu
+category: logo & menu
 image: /assets/img/milkshake_hero.png
+tags:
+  - identity
+  - branding
+  - menu
+  - typography
+  - illustration
 ---
 Milk Shake It Up is a great hangout that takes the feeling of a classic ice cream parlor
 and focuses on milkshakes. Customers can choose from a variety of flavors, including

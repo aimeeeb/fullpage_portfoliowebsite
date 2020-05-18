@@ -4,6 +4,11 @@ layout: posts
 permalink: /maxwell-home
 category: identity & packaging
 image: /assets/img/maxwell_home_hero.png
+tags:
+  - packaging
+  - identity
+  - branding
+  - naming
 ---
 Maxwell House is a popular coffee brand that began in 1982 and for years was the
 highest selling coffee in the United States. Now, the company ventures into a new type

@@ -5,6 +5,9 @@ permalink: /wordpress
 category: ui|ux
 image: /assets/img/wordpress_hero.png
 alt-text: A man at a laptop with the wordpress app open on a phone next to him.
+tags:
+  - user interface
+  - user experience
 ---
 Wordpress is a service that allows people to create their own websites and blogs. It
 offers free and paid services with a variety of themes, plugins, stats, and customization
