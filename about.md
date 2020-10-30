@@ -14,20 +14,26 @@ tags:
 
 # hello and welcome
 
-My name is Aimee Bowen and I am a UI/UX designer based in Honolulu, HI. I have loved creating things since I was a child and now I am passionate about problem solving for the benefit of others. Creating products designed to improve the lives of others is what I'm really excited about. I graduated from Chapman University in Orange, California in May 2020 with two degrees: BFA in Graphic Design and BS in Computer Information Systems. If you need design consultation for a website, an app, your brand, or something else, feel free to [contact me](/contact).
+My name is Aimee and I am a designer based in Honolulu, HI. I consider myself a problem solver and get excited about designing products that help others. I have a BFA in Graphic Design and a BS in Computer Information Systems and use my interdisciplinary knowledge to create efficiently.
+
+Mainly, I work as a UI/UX designer but I also design logos, marketing material, and illustrate. I spend most of my free time drawing or playing video games, which serve as a huge inspiration to me to make things that engage people. I am open to consulting on projects, don't hesitate to [contact me](/contact).
+
+That's a little bit about me, read on to learn about my design process.
+
+<br><br>
+
+## discovery
+
+As someone who likes to plan and organize, I find my design process is a lot like scheduling my day or cleaning my house. The first step is to assess the situation. This means looking at everything that is there and making sure we really understand what needs to be done. I try to gather all available information about the project, the client, the audience, and more through client meetings and in-depth research. Then the project can really get started.
 
 <br>
 
-# how do i approach design?
+## exploration
 
-I believe design should take you somewhere.
+Although I love organizing, my process can be messy. Basically, my belief is that to create something good, you have to start by creating something. In organizing, this means pulling everything together. In painting, this means blotting out indistinct shapes before slowly adding more details. In design, this means sketching out all of my ideas before refining into a set of good ideas.
 
-“Somewhere” could be the restaurant you see in the advertisement at the store or the future company that you just made a new logo for. 
+<br>
 
-I am someone who is always finding different ways to get to places, experimenting with driving, biking, and public transportation, and I especially love my bike. When I want to bike somewhere regularly, I experiment with a few routes before I finally find the one that I take every time. The first route is very rarely the best one. Designing, for me, is the same. The first sketch isn’t perfect but I keep going until I find the design, like my bike path, that can be used everyday.
+## solution
 
-To simplify my creative process, my belief is that to create something good, you have to start by creating something. This idea can be found in everything I create. I took up acrylic painting when I was younger and I always began with blotches of indistinct figures. Gradually, I would add more and more detail, sometimes changes the background color two or three times, until the image became recognizable to anyone.
-
-This agile thinking is partly inspired by my experience with computer programming, where you often have to pave your way through error codes. I realize the logic and semicolons in code and the creativity and vectors of design seem so different but I love what the two have in common. I am a problem solver. I love creatively working through a problem, whether the solution is a program or a logo. Either way, I end up creating something that a person—the audience—can use.
-
-That is always the goal. I keep in mind the target audience and create something that is useful to them. When I consider a cyclist, their route has to safely take them to where they want to go. When I tried my hand at painting, my end goal was to create something that the viewer could recognize. Like a computer program, design is functional. It should take you somewhere.
+This is where we approach a finale. The basics of my creative process tend to follow the same pattern but the design is always uniquely crafted for each product, with the audience in mind. Through the thorough discovery and the hands-on exploration, the goal is always to create a functional design, something that is useful to the audience.
