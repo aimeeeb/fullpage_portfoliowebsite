@@ -72,7 +72,6 @@ header {
 }
 
 #title {
-	width: 80%;
 	margin: 40px auto;
 }
 
@@ -302,7 +301,7 @@ main {
 
 #topbar-title {
 	padding-left: 10px;
-	font-weight: bold;
+	font-weight: 600;
 }
 
 #topbar-description {
@@ -326,7 +325,6 @@ main {
 @media only screen and (max-width: 885px) {
 	body {
 		padding: 0;
-		height: 90%;
 	}
 
 	#sidebar {
@@ -341,7 +339,8 @@ main {
 	}
 
 	.middle {
-		height: 85%
+		height: 85%;
+		padding: 0px 10%;
 	}
 
 	.top {
@@ -360,12 +359,12 @@ main {
 	#topbar {
 		display: block;
 		height: 85px;
-		background-color: black;
-		color: white;
+		background-color: white;
+		color: black;
 		padding: 15px 38px;
-		vertical-align: middle;
 		font-size: 1.5rem;
-		position: relative;
+		position: fixed;
+		width: 100%;
 		z-index: 3;
 	}
 
@@ -379,8 +378,8 @@ main {
 
 	#mobile-aimee {
 		visibility: visible;
-		font-weight: 700;
-		font-size: 25pt;
+		font-weight: 600;
+		font-size: 2rem;
 		color: #f66;
 	}
 
@@ -397,16 +396,22 @@ main {
 	.post-link:hover .post-title {
 		visibility: hidden;
 	}
+	
+	.grid {
+		overflow: scroll;
+		margin-top: 85px !important;
+	}
+	
+	.col-4 {
+		flex: 0 0 100% !important;
+		max-width: 100% !important;
+    	height: 33%;
+	}
 }
 
 @media only screen and (max-width: 825px) {
 	.sidebar {
 		visibility: hidden;
-	}
-
-	.col-8 {
-		flex: 0 0 100% !important;
-    	max-width: 100% !important;
 	}
 
 	.default-page {
@@ -415,12 +420,18 @@ main {
 }
 
 @media only screen and (max-width: 400px) {
-	#mobile-aimee {
-		visibility: hidden;
+	#topbar {
+		height: 65px;
+		padding: 10px 20px;
+		font-size: 1.20rem;
 	}
-	
-	#mobile-designs {
-		visibility: hidden;
+
+	.grid {
+		margin-top: 65px !important;
+	}
+
+	#mobile-aimee {
+		font-size: 1.75rem;
 	}
 
 	.archive-title h2{
