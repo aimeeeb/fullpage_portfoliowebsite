@@ -7,7 +7,7 @@ sidebar: I am currently looking for a full time job in product design or UI/UX d
 
 <form
   id="contact-form"
-  action="https://formspree.io/xpzawpjj"
+  action="https://formspree.io/f/xeqvjkve"
   method="POST"
 >
   <label>
