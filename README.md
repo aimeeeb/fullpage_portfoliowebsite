@@ -15,3 +15,5 @@ Tools used:
 - [FontAwesome](https://fontawesome.com/)
 - [Formspree](https://formspree.io/)
 - Bootstrap
+
+View live site at https://aimeeeb.github.io/fullpage_portfoliowebsite/
